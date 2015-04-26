@@ -1,2 +1,2 @@
 # earthquake-detector
-Detects earthquake and alerts
+A NodeJs webapp which detects earthquake and alerts
